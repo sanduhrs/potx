@@ -1,0 +1,13 @@
+{
+    "name": "sanduhrs/potx",
+    "description": "The potx library.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan@auditor.email"
+        }
+    ],
+    "require": {}
+}
